@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodyProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Recipes">Recipes fragment</string>
+    <string name="Favorites">Favorites fragment</string>
+    <string name="Jokes">Jokes fragment</string>
+</resources>
